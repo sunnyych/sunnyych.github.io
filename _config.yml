@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale: "en-US"
 site_theme: "default" # Currently available options are "default", "air"
-title: "Sunny's Website"
+title: "Sunny Yu"
 title_separator: "-"
 name: &name "Sunny Yu"
 description: &description "Sunny's academic website" # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository: "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
+  avatar: "profile1.png"
   name: "Sunny Yu"
   pronouns: # example: "she/her"
   bio: "Hi! I'm Sunny, an undergraduate student at Stanford University"
@@ -64,7 +64,7 @@ author:
   keybase: # Username
   instagram: # Username
   lastfm: # Username
-  linkedin: # Username
+  linkedin: sunny-yu-992421242
   mastodon: # URL
   medium: # URL
   pinterest: # Username
