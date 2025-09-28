@@ -2,7 +2,7 @@
 title: "Generation Space Size: Understanding and Calibrating Open-Endedness of LLM Generations"
 collection: publications
 category: preprint
-permalink:
+permalink: /publication/generation_space
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025
 # venue: 'Journal 1'
