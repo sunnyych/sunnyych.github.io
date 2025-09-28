@@ -23,4 +23,4 @@ Outside of research, here are some things that I love: [good books](https://www.
 
 Generation Space Size: Understanding and Calibrating Open-Endedness of LLM Generations. **Sunny Yu**, Ahmad Jabbar, Robert Hawkins, Dan Jurafsky, Myra Cheng. Pre-print, under review (2025).
 
-[ Generics Revisited: Analyzing Generalizations in Children’s Books and Caregivers’ Speech.](https://philpapers.org/rec/YUGRAN) **Sunny Yu**, Alvin Tan, Siying Zhang, Phllip Miao, Riley Carlson, Tobias Gerstenberg, David Rose. The 47th Annual Meeting of the Cognitive Science Society (2025).
+[Generics Revisited: Analyzing Generalizations in Children’s Books and Caregivers’ Speech](https://philpapers.org/rec/YUGRAN) **Sunny Yu**, Alvin Tan, Siying Zhang, Phllip Miao, Riley Carlson, Tobias Gerstenberg, David Rose. The 47th Annual Meeting of the Cognitive Science Society (2025).
