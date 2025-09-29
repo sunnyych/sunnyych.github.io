@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /research/
-title: "Research"
+title: "Publications"
 author_profile: true
 # redirect_from:
 #   - /about/
@@ -16,6 +16,13 @@ Generation Space Size: Understanding and Calibrating Open-Endedness of LLM Gener
 
 [ELEPHANT: Measuring And Understanding Social Sycophancy in LLMs](https://arxiv.org/abs/2505.13995). Myra Cheng\*, **Sunny Yu\***, Cinoo Lee, Pranav Khadpe, Lujain Ibrahim, Dan Jurafsky. Pre-print, under review (2025).
 
+[HumT DumT: Measuring and controlling human-like language in LLMs.](https://aclanthology.org/2025.acl-long.1261/). Myra Cheng, **Sunny Yu**, Dan Jurafsky.
+
+[Ontologies in Design: How Imagining a TreenReveals Possibilities and Assumptions in Large Language Models.](https://dl.acm.org/doi/10.1145/3706598.3713633). Nava Haghighi, **Sunny Yu**, James Landay, Daniela Rosner. Proceedings of the 2025 CHI Conference on
+Human Factors in Computing Systems (2025).
+
 ## Cognitive Science Research
 
 [Generics Revisited: Analyzing Generalizations in Children’s Books and Caregivers’ Speech](https://philpapers.org/rec/YUGRAN). **Sunny Yu**, Alvin Tan, Siying Zhang, Phllip Miao, Riley Carlson, Tobias Gerstenberg, David Rose. The 47th Annual Meeting of the Cognitive Science Society (2025).
+
+[DevBench: A multimodal developmental benchmark for language learning](https://arxiv.org/abs/2406.10215). Alvin Tan, **Sunny Yu**, Bria Long, Wanjing Anya Ma, Tonya Murray, Rebecca D. Silverman, Jason D. Yeatman, Michael C. Frank. Advances in Neural Information Processing Systems (Oral) (2025).
