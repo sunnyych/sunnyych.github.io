@@ -34,4 +34,4 @@ What my failed sell-out attempts have taught me (The Stanford Daily)
 
 ### Technology
 
-Opinion | Checkmate and AI: Reality is becoming dystopian, but we might not know it (The Stanford Daily)
+Opinion: Checkmate and AI: Reality is becoming dystopian, but we might not know it (The Stanford Daily)
