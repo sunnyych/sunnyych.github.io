@@ -8,4 +8,4 @@ author_profile: true
 #   - /about.html
 ---
 
-I like to keep track of
+Here's a list of past writing projects that are representative of questions I like to think about -- feel free to reach out if you are interested in similar topics!
