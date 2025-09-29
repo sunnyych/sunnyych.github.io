@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Sunny! I’m an undergraduate student in [Symbolic Systems](https://symsys.stanford.edu/) and a coterminal student in Computer Science at Stanford University. I am very fortunate to be advised by [Dan Jurafsky](https://web.stanford.edu/~jurafsky/) and [Robert Hawkins](https://rdhawkins.com/).
+Hi, I’m Sunny! I’m an undergraduate student majoring in [Symbolic Systems](https://symsys.stanford.edu/) and a coterminal student in Computer Science at Stanford University. I am very fortunate to be advised by [Dan Jurafsky](https://web.stanford.edu/~jurafsky/) and [Robert Hawkins](https://rdhawkins.com/).
 
 I am deeply interested in questions at the intersection of human and machine cognition and how insights from computer science, cognitive science, linguistics, and philosophy can inform the development of safe and interpretable AI systems. My long-term research goal is to align AI models to augment – rather than constrain – the human intellect and autonomy.
 
-Outside of research, here are some things that I love: [good books](https://www.goodreads.com/user/show/110623199-sunny-yu) (modernist, feminist, sci-fi, satirical), writing, black tea, running, swimming, hiking (with four limbs when it’s really steep) & the outdoors, racquet sports (tennis, badminton, squash, ping pong), skiing, travelling, playing Merlin or Oberon in Avalon, watching Netflix, and shopping. One of my biggest dreams is to write an autobiographical fiction.
+Outside of research, here are some things that I love: [good books](https://www.goodreads.com/user/show/110623199-sunny-yu) (modernist, feminist, sci-fi, satirical), black tea, running, hiking (with four limbs when it’s really steep), racquet sports (but not pickeball), and playing Merlin or Oberon in Avalon. One of my biggest dreams is to write an autobiographical fiction.
 
 ## Selected Papers
 
