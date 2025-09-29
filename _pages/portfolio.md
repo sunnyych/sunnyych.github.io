@@ -27,3 +27,11 @@ The Futility of the Machine to Bridge Objective Facts and Representations
 ### Education
 
 The need for critical race theory in history education: the importance of perspectives
+
+Axess went down (again) during frosh course enrollment, but something good happened (The Stanford Daily)
+
+What my failed sell-out attempts have taught me (The Stanford Daily)
+
+### Technology
+
+Opinion | Checkmate and AI: Reality is becoming dystopian, but we might not know it (The Stanford Daily)
