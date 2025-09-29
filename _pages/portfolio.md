@@ -19,3 +19,11 @@ Behind the Gaze: Freeing Women from the Silence of Cultural Tourism, A Case Stud
 Barbie’s Awakening: Adaptation as Satirical Feminist Critique
 
 ### Philosophy
+
+Reasonableness as A Fundamentally Social Trait
+
+The Futility of the Machine to Bridge Objective Facts and Representations
+
+### Education
+
+The need for critical race theory in history education: the importance of perspectives
