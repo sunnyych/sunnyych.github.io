@@ -10,7 +10,7 @@ author_profile: true
 
 Please visit [Google Scholar](https://scholar.google.com/citations?user=9CXaixsAAAAJ&hl=en) for the full list!
 
-## NLP Research
+### NLP Research
 
 Generation Space Size: Understanding and Calibrating Open-Endedness of LLM Generations. **Sunny Yu**, Ahmad Jabbar, Robert Hawkins, Dan Jurafsky, Myra Cheng. Pre-print, under review (2025).
 
@@ -21,7 +21,7 @@ Generation Space Size: Understanding and Calibrating Open-Endedness of LLM Gener
 [Ontologies in Design: How Imagining a TreenReveals Possibilities and Assumptions in Large Language Models.](https://dl.acm.org/doi/10.1145/3706598.3713633). Nava Haghighi, **Sunny Yu**, James Landay, Daniela Rosner. Proceedings of the 2025 CHI Conference on
 Human Factors in Computing Systems (2025).
 
-## Cognitive Science Research
+### Cognitive Science Research
 
 [Generics Revisited: Analyzing Generalizations in Children’s Books and Caregivers’ Speech](https://philpapers.org/rec/YUGRAN). **Sunny Yu**, Alvin Tan, Siying Zhang, Phllip Miao, Riley Carlson, Tobias Gerstenberg, David Rose. The 47th Annual Meeting of the Cognitive Science Society (2025).
 
