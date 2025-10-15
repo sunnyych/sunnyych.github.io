@@ -12,7 +12,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=9CXaixsA
 
 ### NLP Research
 
-Generation Space Size: Understanding and Calibrating Open-Endedness of LLM Generations. **Sunny Yu**, Ahmad Jabbar, Robert Hawkins, Dan Jurafsky, Myra Cheng. Pre-print, under review (2025).
+[Generation Space Size: Understanding and Calibrating Open-Endedness of LLM Generations](https://arxiv.org/pdf/2510.12699). **Sunny Yu**, Ahmad Jabbar, Robert Hawkins, Dan Jurafsky, Myra Cheng. Pre-print, under review (2025).
 
 [ELEPHANT: Measuring And Understanding Social Sycophancy in LLMs](https://arxiv.org/abs/2505.13995). Myra Cheng\*, **Sunny Yu\***, Cinoo Lee, Pranav Khadpe, Lujain Ibrahim, Dan Jurafsky. Pre-print, under review (2025).
 
@@ -20,6 +20,8 @@ Generation Space Size: Understanding and Calibrating Open-Endedness of LLM Gener
 
 [Ontologies in Design: How Imagining a TreenReveals Possibilities and Assumptions in Large Language Models.](https://dl.acm.org/doi/10.1145/3706598.3713633). Nava Haghighi, **Sunny Yu**, James Landay, Daniela Rosner. Proceedings of the 2025 CHI Conference on
 Human Factors in Computing Systems (2025).
+
+[Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence](https://arxiv.org/abs/2510.01395) Myra Cheng, Cinoo Lee, Pranav Khadpe, **_Sunny Yu_**, Dyllan Han, Dan Jurafsky
 
 ### Cognitive Science Research
 

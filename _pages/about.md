@@ -15,7 +15,7 @@ Outside of research, here are some things that I love: [good books](https://www.
 
 ## Selected Papers
 
-Generation Space Size: Understanding and Calibrating Open-Endedness of LLM Generations. **Sunny Yu**, Ahmad Jabbar, Robert Hawkins, Dan Jurafsky, Myra Cheng. Pre-print, under review (2025).
+[Generation Space Size: Understanding and Calibrating Open-Endedness of LLM Generations](https://arxiv.org/pdf/2510.12699). **Sunny Yu**, Ahmad Jabbar, Robert Hawkins, Dan Jurafsky, Myra Cheng. Pre-print, under review (2025).
 
 [ELEPHANT: Measuring And Understanding Social Sycophancy in LLMs](https://arxiv.org/abs/2505.13995). Myra Cheng\*, **Sunny Yu\***, Cinoo Lee, Pranav Khadpe, Lujain Ibrahim, Dan Jurafsky. Pre-print, under review (2025).
 
