@@ -23,8 +23,8 @@ Human Factors in Computing Systems (2025).
 
 [Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence](https://arxiv.org/abs/2510.01395) Myra Cheng, Cinoo Lee, Pranav Khadpe, **_Sunny Yu_**, Dyllan Han, Dan Jurafsky
 
+[DevBench: A multimodal developmental benchmark for language learning](https://arxiv.org/abs/2406.10215). Alvin Tan, **Sunny Yu**, Bria Long, Wanjing Anya Ma, Tonya Murray, Rebecca D. Silverman, Jason D. Yeatman, Michael C. Frank. Advances in Neural Information Processing Systems (Oral) (2025).
+
 ### Cognitive Science Research
 
 [Generics Revisited: Analyzing Generalizations in Children’s Books and Caregivers’ Speech](https://philpapers.org/rec/YUGRAN). **Sunny Yu**, Alvin Tan, Siying Zhang, Phllip Miao, Riley Carlson, Tobias Gerstenberg, David Rose. The 47th Annual Meeting of the Cognitive Science Society (2025).
-
-[DevBench: A multimodal developmental benchmark for language learning](https://arxiv.org/abs/2406.10215). Alvin Tan, **Sunny Yu**, Bria Long, Wanjing Anya Ma, Tonya Murray, Rebecca D. Silverman, Jason D. Yeatman, Michael C. Frank. Advances in Neural Information Processing Systems (Oral) (2025).
