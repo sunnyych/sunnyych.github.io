@@ -11,7 +11,7 @@ I’m an undergraduate student majoring in [Symbolic Systems](https://symsys.sta
 
 I am deeply interested in questions at the intersection of human and machine cognition and how insights from computer science, cognitive science, linguistics, and philosophy can inform the development of safe and interpretable AI systems. My long-term research goal is to align AI models to augment – rather than constrain – the human intellect and autonomy.
 
-Outside of research, here are some things that I love: [good books](https://www.goodreads.com/user/show/110623199-sunny-yu) (modernist, feminist, sci-fi, satirical), black tea, running, hiking (with four limbs when it’s really steep), racquet sports (but not pickeball), and playing Merlin or Oberon in Avalon. One of my biggest dreams is to write an autobiographical fiction.
+Outside of research, here are some things that I love: [good books](https://www.goodreads.com/user/show/110623199-sunny-yu) (modernist, feminist, sci-fi, satirical), black tea, running, hiking (with four limbs when it’s really steep), most racquet sports, and Avalon. One of my biggest dreams is to write an autobiographical fiction.
 
 ## Selected Papers
 
