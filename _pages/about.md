@@ -9,7 +9,7 @@ redirect_from:
 
 I’m an undergraduate student majoring in [Symbolic Systems](https://symsys.stanford.edu/) and a coterminal student in Computer Science at Stanford University. I am very fortunate to be advised by [Dan Jurafsky](https://web.stanford.edu/~jurafsky/) and [Robert Hawkins](https://rdhawkins.com/).
 
-I am interested in the intersection between cognitive science and AI, specifically using insights about human cognition to build safe and more robust and interpretable AI systems that can benefit our long-term development. My research agenda involves better understanding LLMs and their behaviors and aligning them in ways that can bring about positive societal impacts.
+I am interested in the intersection between cognitive science and AI, specifically using insights about human cognition to build safe and more robust and interpretable AI systems that can benefit our long-term development.
 
 Outside of research, here are some things that I love: [good books](https://www.goodreads.com/user/show/110623199-sunny-yu) (modernist, feminist, sci-fi, satirical), black tea, running, hiking (with four limbs when it’s really steep), tennis and badminton, and Avalon. One of my biggest dreams is to write an autobiographical fiction.
 
