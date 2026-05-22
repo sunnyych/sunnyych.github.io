@@ -29,4 +29,4 @@ Human Factors in Computing Systems (2025).
 
 [Generics Revisited: Analyzing Generalizations in Children’s Books and Caregivers’ Speech](https://philpapers.org/rec/YUGRAN). **Sunny Yu**, Alvin Tan, Siying Zhang, Phllip Miao, Riley Carlson, Tobias Gerstenberg, David Rose. The 47th Annual Meeting of the Cognitive Science Society (2025).
 
-[The Efficiency-Gain Illusion: People Underestimate the Rate of AI Use and Overestimate Its Benefits on s|Simple Tasks](https://arxiv.org/abs/2605.22687). **Sunny Yu**, Myra Cheng, Ahmad Jabbar, Ilia Sucholutsky, Katherine M. Collins, Dan Jurafsky, Robert D. Hawkins. Pre-print, under review (2026).
+[The Efficiency-Gain Illusion: People Underestimate the Rate of AI Use and Overestimate Its Benefits on Simple Tasks](https://arxiv.org/abs/2605.22687). **Sunny Yu**, Myra Cheng, Ahmad Jabbar, Ilia Sucholutsky, Katherine M. Collins, Dan Jurafsky, Robert D. Hawkins. Pre-print, under review (2026).
