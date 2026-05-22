@@ -16,7 +16,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=9CXaixsA
 
 [ELEPHANT: Measuring And Understanding Social Sycophancy in LLMs](https://arxiv.org/abs/2505.13995). Myra Cheng\*, **Sunny Yu\***, Cinoo Lee, Pranav Khadpe, Lujain Ibrahim, Dan Jurafsky. ICLR (2026).
 
-[Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence](https://www.science.org/doi/10.1126/science.aec8352) Myra Cheng, Cinoo Lee, Pranav Khadpe, **_Sunny Yu_**, Dyllan Han, Dan Jurafsky. Science (2026).
+[Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence](https://www.science.org/doi/10.1126/science.aec8352) Myra Cheng, Cinoo Lee, Pranav Khadpe, **Sunny Yu**, Dyllan Han, Dan Jurafsky. Science (2026).
 
 [HumT DumT: Measuring and controlling human-like language in LLMs.](https://aclanthology.org/2025.acl-long.1261/). Myra Cheng, **Sunny Yu**, Dan Jurafsky.
 
