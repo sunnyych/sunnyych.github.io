@@ -15,8 +15,8 @@ Outside of research, here are some things that I love: [good books](https://www.
 
 ## Recent Papers
 
+[The Efficiency-Gain Illusion: People Underestimate the Rate of AI Use and Overestimate Its Benefits on s|Simple Tasks](https://arxiv.org/abs/2605.22687). **Sunny Yu**, Myra Cheng, Ahmad Jabbar, Ilia Sucholutsky, Katherine M. Collins, Dan Jurafsky, Robert D. Hawkins. Pre-print, under review (2026).
+
 [Generation Space Size: Understanding and Calibrating Open-Endedness of LLM Generations](https://arxiv.org/pdf/2510.12699). **Sunny Yu**, Ahmad Jabbar, Robert Hawkins, Dan Jurafsky, Myra Cheng. Pre-print, under review (2025).
 
-[ELEPHANT: Measuring And Understanding Social Sycophancy in LLMs](https://arxiv.org/abs/2505.13995). Myra Cheng\*, **Sunny Yu\***, Cinoo Lee, Pranav Khadpe, Lujain Ibrahim, Dan Jurafsky. Pre-print, under review (2025).
-
-[Generics Revisited: Analyzing Generalizations in Children’s Books and Caregivers’ Speech](https://philpapers.org/rec/YUGRAN). **Sunny Yu**, Alvin Tan, Siying Zhang, Phllip Miao, Riley Carlson, Tobias Gerstenberg, David Rose. The 47th Annual Meeting of the Cognitive Science Society (2025).
+[ELEPHANT: Measuring And Understanding Social Sycophancy in LLMs](https://arxiv.org/abs/2505.13995). Myra Cheng\*, **Sunny Yu\***, Cinoo Lee, Pranav Khadpe, Lujain Ibrahim, Dan Jurafsky. ICLR (2026).
