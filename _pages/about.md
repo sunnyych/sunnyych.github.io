@@ -15,7 +15,7 @@ Outside of research, here are some things that I love: [good books](https://www.
 
 ## Recent Papers
 
-[The Efficiency-Gain Illusion: People Underestimate the Rate of AI Use and Overestimate Its Benefits on s|Simple Tasks](https://arxiv.org/abs/2605.22687). **Sunny Yu**, Myra Cheng, Ahmad Jabbar, Ilia Sucholutsky, Katherine M. Collins, Dan Jurafsky, Robert D. Hawkins. Pre-print, under review (2026).
+[The Efficiency-Gain Illusion: People Underestimate the Rate of AI Use and Overestimate Its Benefits on Simple Tasks](https://arxiv.org/abs/2605.22687). **Sunny Yu**, Myra Cheng, Ahmad Jabbar, Ilia Sucholutsky, Katherine M. Collins, Dan Jurafsky, Robert D. Hawkins. Pre-print, under review (2026).
 
 [Generation Space Size: Understanding and Calibrating Open-Endedness of LLM Generations](https://arxiv.org/pdf/2510.12699). **Sunny Yu**, Ahmad Jabbar, Robert Hawkins, Dan Jurafsky, Myra Cheng. Pre-print, under review (2025).
 
