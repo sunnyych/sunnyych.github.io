@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m an undergraduate student majoring in [Symbolic Systems](https://symsys.stanford.edu/) and a coterminal student in Computer Science at Stanford University. I am very fortunate to be advised by [Dan Jurafsky](https://web.stanford.edu/~jurafsky/) and [Robert Hawkins](https://rdhawkins.com/).
+I am an incoming first year PhD in Computer Science at Princeton University. Previously, I graduated from Stanford University with a BS in [Symbolic Systems](https://symsys.stanford.edu/) (with honors and distinction, Phi Beta Kappa) and an MS in Computer Science. I was very fortunate to be advised by [Dan Jurafsky](https://web.stanford.edu/~jurafsky/) and [Robert Hawkins](https://rdhawkins.com/).
 
 I am interested in the intersection between cognitive science and AI, specifically using insights about human cognition to build safe and more robust and interpretable AI systems that can benefit our long-term development.
 
