@@ -1,5 +1,5 @@
 ---
-title: 'What We Still Don't Understand About AI—and Ourselves'
+title: "What We Still Don't Understand About AI—and Ourselves"
 date: 2026-07-09
 ---
 
