@@ -1,5 +1,5 @@
 ---
-title: "On Symbolic Systems"
+title: "Why I chose Symbolic Systems"
 date: 2026-07-20
 ---
 
