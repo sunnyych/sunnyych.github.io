@@ -23,6 +23,6 @@ Outside of research, here are some things that I love: [good books](https://www.
 
 ## Updates
 
-June 2026: I graduated from Stanford and was the recipient of the Firestone Medals for Excellence in Undergraduate Research! \\
-April 2026: Our paper on benchmarking sycophancy appeared at ICLR. \\
+June 2026: I graduated from Stanford and was the recipient of the [Firestone Medals for Excellence in Undergraduate Research](https://undergrad.stanford.edu/awards-and-graduation-honors/golden-firestone-and-kennedy-thesis-awards)! \\
+April 2026: [Our paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/d3362f84979d16cee000f09eef61244c-Abstract-Conference.html) on benchmarking sycophancy appeared at ICLR. \\
 March 2026: Our paper on sycophantic AI's impacts on people was the cover story of [Science](https://www.science.org/doi/10.1126/science.aec8352)!
