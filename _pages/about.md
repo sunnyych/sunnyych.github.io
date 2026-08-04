@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming first year PhD in Computer Science at Princeton University, advised by Tom Griffiths. Previously, I graduated from Stanford University with a BS in [Symbolic Systems](https://symsys.stanford.edu/) (with honors and distinction, Phi Beta Kappa) and an MS in Computer Science. At Stanford, I was very fortunate to be advised by [Dan Jurafsky](https://web.stanford.edu/~jurafsky/) and [Robert Hawkins](https://rdhawkins.com/).
+I am an incoming first year PhD in Computer Science at Princeton University, advised by Tom Griffiths and Brenden Lake. Previously, I graduated from Stanford University with a BS in [Symbolic Systems](https://symsys.stanford.edu/) (with honors and distinction, Phi Beta Kappa) and an MS in Computer Science. At Stanford, I was very fortunate to be advised by [Dan Jurafsky](https://web.stanford.edu/~jurafsky/) and [Robert Hawkins](https://rdhawkins.com/).
 
 I am interested in cognitive science and AI, specifically using insights about human cognition to build safe and more robust and interpretable AI systems that can benefit our long-term development.
 
