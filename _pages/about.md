@@ -11,7 +11,7 @@ I am an incoming first year PhD in Computer Science at Princeton University, adv
 
 I am interested in cognitive science and AI, specifically using insights about human cognition to build safe and more robust and interpretable AI systems that can benefit our long-term development.
 
-Outside of research, here are some things that I love: [good books](https://www.goodreads.com/user/show/110623199-sunny-yu) (modernist, feminist, sci-fi, satirical), tea, running, hiking and the outdoors, tennis and badminton, and any theory-of-mind board games.
+Outside of research, here are some things that I love: [good books](https://www.goodreads.com/user/show/110623199-sunny-yu) (modernist, feminist, sci-fi, satirical), tea, fruits, running, hiking and the outdoors, tennis and badminton, and any theory-of-mind board games and card games.
 
 ## Recent Papers
 
