@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming first year PhD in Computer Science at Princeton University, advised by Tom Griffiths. Previously, I graduated from Stanford University with a BS in [Symbolic Systems](https://symsys.stanford.edu/) (with honors and distinction, Phi Beta Kappa) and an MS in Computer Science. At Stanford, I was very fortunate to be advised by [Dan Jurafsky](https://web.stanford.edu/~jurafsky/) and [Robert Hawkins](https://rdhawkins.com/).
+I am a first year PhD in Computer Science at Princeton University, advised by Tom Griffiths. Previously, I graduated from Stanford University with a BS in [Symbolic Systems](https://symsys.stanford.edu/) (with honors and distinction, Phi Beta Kappa) and an MS in Computer Science. At Stanford, I was very fortunate to be advised by [Dan Jurafsky](https://web.stanford.edu/~jurafsky/) and [Robert Hawkins](https://rdhawkins.com/).
 
 I am interested in cognitive science and AI, specifically using insights about human cognition to build safe and more robust and interpretable AI systems that can benefit our long-term development.
 
@@ -22,7 +22,6 @@ Outside of research, here are some things that I love: [good books](https://www.
 [ELEPHANT: Measuring And Understanding Social Sycophancy in LLMs](https://arxiv.org/abs/2505.13995). Myra Cheng\*, **Sunny Yu\***, Cinoo Lee, Pranav Khadpe, Lujain Ibrahim, Dan Jurafsky. ICLR (2026).
 
 ## Updates
-
 June 2026: I graduated from Stanford and was the recipient of the [Firestone Medals for Excellence in Undergraduate Research](https://undergrad.stanford.edu/awards-and-graduation-honors/golden-firestone-and-kennedy-thesis-awards)! \\
 April 2026: [Our paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/d3362f84979d16cee000f09eef61244c-Abstract-Conference.html) on benchmarking sycophancy appeared at ICLR. \\
 March 2026: Our paper on sycophantic AI's impacts on people was the cover story of [Science](https://www.science.org/doi/10.1126/science.aec8352)!
