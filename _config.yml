@@ -27,11 +27,11 @@ author:
   avatar: "profile1.jpg"
   name: "Sunny Yu"
   pronouns: # example: "she/her"
-  bio: "Hi! I'm Sunny, an undergraduate student at Stanford University"
-  location: "Stanford, California"
-  employer: "Stanford University"
+  bio: "Hi! I'm Sunny, a PhD student at Princeton University"
+  location: "Princeton, NJ"
+  employer: "Princeton University"
   uri: # URL
-  email: "syu03@stanford.edu"
+  email: "syu03@princeton.edu"
 
   # Academic websites
   academia: # URL
